@@ -1,0 +1,26 @@
+##License files
+License.txt
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# IDEs
+.vscode/
+.idea/

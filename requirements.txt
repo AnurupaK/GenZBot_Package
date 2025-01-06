@@ -1,0 +1,8 @@
+twine
+setuptools
+wheel
+flask
+python-dotenv
+google-generativeai
+gunicorn==20.1.0
+groq
