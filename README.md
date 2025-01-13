@@ -1,6 +1,6 @@
 # GenZBot: Your Gateway to AI Chatbot Creation! 🤖✨
 
-Welcome to **GenZBot**, the ultimate package designed to help beginners build AI chatbots from scratch. Whether you're just stepping into the world of Generative AI or looking to understand chatbot integration, GenZBot has got you covered! 🚀
+Welcome to **GenZBot**, the ultimate package designed to help beginners build AI chatbots from scratch. Whether you're just stepping into the world of Generative AI or looking to understand chatbot integration, GenZBot has got you covered! 🚀 If you're interested in learning how to publish your own Python package to PyPI, check out my detailed [Medium article](https://medium.com/@anurupakarmakar.dgp18/how-to-publish-a-python-package-to-pypi-dea77d73a216). It provides a step-by-step guide to walk you through the entire process. 📦
 
 ---
 
