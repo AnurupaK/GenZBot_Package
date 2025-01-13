@@ -10,7 +10,7 @@ Welcome to **GenZBot**, the ultimate package designed to help beginners build AI
 - **Multiple LLMs**: Choose from 5 powerful language models:
   - `openai` 🔑 (requires a paid API key from OpenAI)
   - `gemini` 🌌 (free API key from Google AI Studio)
-  - `gemma` 🧠
+  - `gemma` 🧠  (all these other three have free API key from Groq)
   - `llama` 🦙
   - `mixtral` 🌀
 - **Customizable Templates**: Two designs available:
